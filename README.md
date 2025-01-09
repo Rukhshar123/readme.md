@@ -8,7 +8,7 @@ Experienced Software Engineer with nearly 4 years (3.10 years) of hands-on exper
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience:
 
-- Python Developer - ML Enthusiast.
+- Software Engineer
 
 
 <br>
