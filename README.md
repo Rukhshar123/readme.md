@@ -3,7 +3,7 @@
 </em></p>
 <img style="center" alt="GIF" src="https://github.com/RajatGarg97/RajatGarg97/blob/master/media/techstack.gif" width="360px"/>
 
-I am Software Developer based in Bangalore, India.
+Experienced Software Engineer with nearly 4 years (3.10 years) of hands-on expertise, skilled in full-stack development. Proficient in Python frameworks like Django and Flask for backend architecture, and in frontend technologies such as ReactJS, JQuery, and JavaScript. Designs RESTful APIs and FastAPI endpoints, optimizing database performance across PostgreSQL, MySQL, and MongoDB. Proficient in Docker-based containerization and Nginx deployment. Thrives in startup environments, excelling in microservices development, and advocating for Test-Driven Development (TDD) and automated testing. Proficient in monitoring tools like Grafana and Prometheus. Experienced in Go programming language, utilizing its concurrency features and efficient runtime.
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience:
