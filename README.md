@@ -1,7 +1,7 @@
 <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Hey, I'm Rukhshar Mirza! </h1>
 <p><em>A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
-<img style="center" alt="GIF" src="https://github.com/RajatGarg97/RajatGarg97/blob/master/media/techstack.gif" width="360px"/>
+
 
 Experienced Software Engineer with nearly 4 years (3.10 years) of hands-on expertise, skilled in full-stack development. Proficient in Python frameworks like Django and Flask for backend architecture, and in frontend technologies such as ReactJS, JQuery, and JavaScript. Designs RESTful APIs and FastAPI endpoints, optimizing database performance across PostgreSQL, MySQL, and MongoDB. Proficient in Docker-based containerization and Nginx deployment. Thrives in startup environments, excelling in microservices development, and advocating for Test-Driven Development (TDD) and automated testing. Proficient in monitoring tools like Grafana and Prometheus. Experienced in Go programming language, utilizing its concurrency features and efficient runtime.
 
@@ -14,11 +14,11 @@ Experienced Software Engineer with nearly 4 years (3.10 years) of hands-on exper
 <br>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatgarg765&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatgarg765&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rukhshar123&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukhshar123&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
 
   <br>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rajatgarg765&color=fc5a8d" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Rukhshar123&color=fc5a8d" />
  
  
 </p>
