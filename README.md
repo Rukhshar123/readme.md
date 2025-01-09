@@ -1,9 +1,9 @@
-<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Hey, I'm Rajat Garg! </h1>
+<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Hey, I'm Rukhshar Mirza! </h1>
 <p><em>A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 <img style="center" alt="GIF" src="https://github.com/RajatGarg97/RajatGarg97/blob/master/media/techstack.gif" width="360px"/>
 
-I am Software Developer based in Ayodhya, India. I am currently pursuing my Bachelor of Technology degree in Computer Science and Engineering from Faculty of Engineering & Technology - GKV, Haridwar.
+I am Software Developer based in Bangalore, India. I am currently pursuing my Bachelor of Technology degree in Computer Science and Engineering.
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience:
@@ -44,9 +44,8 @@ I am Software Developer based in Ayodhya, India. I am currently pursuing my Bach
  
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
-<code><a href="https://www.linkedin.com/in/rajatgarg123/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<code><a href="https://www.instagram.com/introducingmyselff/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
-<code><a href="mailto:rajatrj349@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="https://www.linkedin.com/in/rukhshar-mirza-b62581163/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+<code><a href="mailto:rukhshar.mirza1993@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 <br>
 
